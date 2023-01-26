@@ -1,0 +1,13 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: century;
+}
+.header{
+  background-image:  linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),url(./Asset/pexel.jpg);
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+
